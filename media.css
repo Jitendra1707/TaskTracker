@@ -1,0 +1,48 @@
+@media screen and (max-width: 600px) {
+
+  .motivation-line {
+    font-size: 14px;
+  }
+
+  .container {
+    width: 100%;
+    padding: 10px;
+  }
+
+  .input-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .input-section input {
+    width: 100%;
+    max-width: none;
+    margin-bottom: 10px;
+  }
+
+  .btn-add {
+    margin-top: 10px;
+  }
+
+  .todos-filter {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .delete-selected-btn,
+  .delete-all-btn {
+    margin-bottom: 10px;
+  }
+
+  .filters {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .completed-task,
+  .remaining-task {
+    margin-bottom: 10px;
+  }
+}
+
