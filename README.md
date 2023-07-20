@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # TaskTracker
 
@@ -12,3 +13,7 @@ HTM, CSS, JavaScript, Nodejs
 ![App Screenshot](https://i.postimg.cc/023pd7Pb/tototo.png)
 
 
+=======
+# TaskTracker
+
+>>>>>>> origin/master
